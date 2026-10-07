@@ -17,5 +17,5 @@ javafx {
 }
 
 application {
-    mainClass = 'org.example.Main'
+    mainClass = 'CustomerManagerApp'
 }
